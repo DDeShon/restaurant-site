@@ -46,7 +46,7 @@
   color: black;
   margin-bottom: 1.3rem;
   display: block;
-  transition: color 0.3s ease-in-out;
+  transition: color 0.4s ease-in-out;
 }
 
 .menu-item a:hover {
@@ -60,6 +60,7 @@
   font-size: 1.6rem;
   border-radius: 10px;
   margin-bottom: 1.3rem;
+  transition: transform 0.4s ease-in-out;
 }
 
 .menu-button a {
@@ -82,6 +83,7 @@
 .social-icons a {
   margin-right: 5px;
   text-decoration: none;
+  transition: transform 0.4s ease-in-out;
 }
 
 .social-icons a:hover {
