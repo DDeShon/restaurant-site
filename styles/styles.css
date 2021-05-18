@@ -68,6 +68,11 @@
   padding: 5px;
 }
 
+.menu-button:hover {
+  background-color: #ee31248c;
+  transform: scale(1.25);
+}
+
 .social-icons {
   display: flex;
   align-items: center;
@@ -77,6 +82,10 @@
 .social-icons a {
   margin-right: 5px;
   text-decoration: none;
+}
+
+.social-icons a:hover {
+  transform: scale(1.25);
 }
 
 .location {
