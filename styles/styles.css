@@ -70,8 +70,8 @@
 }
 
 .menu-button:hover {
-  background-color: #ee31248c;
-  transform: scale(1.25);
+  background-color: hsl(4, 73%, 35%);
+  transform: scale(1.1);
 }
 
 .social-icons {
