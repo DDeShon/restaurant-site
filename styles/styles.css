@@ -13,7 +13,11 @@
 }
 
 .welcome-menu {
-  background-color: white;
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(156, 156, 156, 1) 100%
+  );
   padding: 50px;
 }
 
@@ -24,7 +28,7 @@
 }
 
 .logo img {
-  max-width: 300px;
+  max-width: 100%;
 }
 
 .menu {
@@ -76,7 +80,7 @@
 
 .welcome-image {
   display: flex;
-  background-color: red;
+  /* background-color: red; */
   max-width: 100%;
   align-items: cover;
   justify-content: center;
