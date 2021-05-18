@@ -20,9 +20,14 @@ body {
 /* Side Nav Menu */
 .side_nav {
   color: white;
+  line-height: 5rem;
   width: 10rem;
   height: 100vh;
   border: 1px solid white;
+}
+
+.nav_item {
+  font-size: 1.5rem;
 }
 /* Main Section */
 /* Footer Section */
